@@ -1,5 +1,7 @@
 Django==2.0.1.
-psycopg2-binary
-djangorestframework
-pygments
 python-dotenv
+djangorestframework
+coreapi
+coreapi-cli
+psycopg2-binary
+pygments
